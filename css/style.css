@@ -2071,7 +2071,7 @@ body:not(.expand_content):not(.body_style_fullwide):not(.body_style_fullscreen) 
     display: inline-block;
     margin: 0;
     max-width: 100%;
-    max-height: 4.4em;
+    max-height: 7em;
     width: auto;
 }
 
