@@ -3680,7 +3680,11 @@
         right: auto;
         bottom: auto;
         width: 100%!important;
-        min-height: 18em
+        min-height: 18em;
+        
+    }
+    .jumping-woman {
+        background-position: initial;
     }
     .sc_promo_text {
         width: 100%!important;
