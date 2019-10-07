@@ -2073,7 +2073,6 @@ body:not(.expand_content):not(.body_style_fullwide):not(.body_style_fullscreen) 
     max-width: 100%;
     max-height: 7em;
     width: auto;
-    position: fixed;
 }
 
 .logo_text {
